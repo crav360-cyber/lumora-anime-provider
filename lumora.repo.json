@@ -1,0 +1,11 @@
+{
+  "name": "Anime Hub",
+  "description": "AniList metadata and streaming providers for Anime.",
+  "entry": "index.js",
+  "healthPath": "/health",
+  "hosts": [
+    "aniwatch-api-tau.vercel.app",
+    "api.consumet.org",
+    "gogoanime-api.vercel.app"
+  ]
+}
